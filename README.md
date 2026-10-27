@@ -1,0 +1,2 @@
+# Veritypedia
+Знакомство с GitHub
